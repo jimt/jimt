@@ -1,0 +1,12 @@
+# compiled python
+*.py[co]
+build
+build-stamp
+# editor debris
+*~
+.#*
+._*
+.*.sw?
+# OS X debris
+**/.DS_Store
+

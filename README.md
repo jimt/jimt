@@ -1,16 +1,13 @@
-### Hi there 👋
+### Greetings, salutations, and all that is commensurate
 
-<!--
-**jimt/jimt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I haven't decided what I want to be when I grow up.
 
-Here are some ideas to get you started:
+I have worked at the Logo Lab,
+designed computer peripherals, led software developement at a
+computer-vision-based medical startup, designed personal computers,
+written firmware for CD-ROM drives made by a half-dozen companies,
+and helped start an education foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've lived in the USA, Japan, Singapore, and New Zealand.
+
+
