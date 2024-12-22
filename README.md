@@ -8,8 +8,6 @@ led software development at a [computer-vision-based medical startup](https://we
 (in 1980! _seriously_ high tech),
 designed [Atari personal computers](https://en.wikipedia.org/wiki/Atari#Atari_Inc._(1972%E2%80%931984)),
 written firmware for CD-ROM drives made by a half-dozen companies,
-and helped start an [Open Education foundation](https://oerfoundation.org/).
+and helped start the [Open Education Foundation](https://OERfoundation.org/).
 
 I've lived/worked in the USA, Japan, Singapore, and New Zealand.
-
-
